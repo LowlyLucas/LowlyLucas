@@ -1,4 +1,4 @@
 # welcome!
-lowly is some bloke on the internet that is pretty mid at lua programming, roblox lua to be specifc!
+i used to code some random small games on roblox but now i don't really code on anything so uhh... what am i doing here on github lol?
 
 other platforms i'm on are linked [here](lowlytv.carrd.co)
